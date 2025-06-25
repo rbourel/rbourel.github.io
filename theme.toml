@@ -1,11 +1,29 @@
 baseURL = 'http://localhost:1313/'
+copyright = "© Rodrigue BOUREL"
+defaultContentLanguage = "en"
 languageCode = 'en-us'
 title = 'Rodrigue BOUREL'
 theme = 'gallery'
+timeZone = "Europe/Paris"
+timeout = "300s"
 enableRobotsTXT = true
 
 [params]
   defaultTheme = "dark"
+  [params.author]
+    email = "rbourel@icloud.com"
+    name = "Rodrigue BOUREL"
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/globerorotter"
+    github = "https://github.com/rbourel"
+    #email = "mailto:rbourel@icloud.com"
+    #youtube = "https://www.youtube.com"
+    #website = "https://example.com"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
 
 [module]
   [[module.imports]]

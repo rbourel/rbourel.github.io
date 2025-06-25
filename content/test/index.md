@@ -1,7 +1,7 @@
 ---
 title: Test
 description: Premier test
-categories: ["street"]
+categories: ["cat1"]
 weight: 3
 menu: main
 params:

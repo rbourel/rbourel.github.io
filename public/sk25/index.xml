@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South Korea on </title>
+    <link>//localhost:1313/sk25/</link>
+    <description>Recent content in South Korea on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/sk25/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seoul</title>
+      <link>//localhost:1313/sk25/seoul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sk25/seoul/</guid>
+        <media:content url="//localhost:1313/sk25/seoul/IMG_0001_hu_4944832774961532.JPEG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/sk25/seoul/IMG_0001_hu_4944832774961532.JPEG&quot; /&gt;
+          &lt;p&gt;Capitale dynamique mêlant modernité et tradition, avec des palais royaux, des quartiers branchés (Hongdae, Itaewon) et une vie urbaine intense.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Pusan</title>
+      <link>//localhost:1313/sk25/pusan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sk25/pusan/</guid>
+        <media:content url="//localhost:1313/sk25/pusan/IMG_9406_hu_bef2547d59fe851d.JPEG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/sk25/pusan/IMG_9406_hu_bef2547d59fe851d.JPEG&quot; /&gt;
+          &lt;p&gt;Grande ville portuaire du sud, célèbre pour ses plages (Haeundae, Gwangalli), ses marchés de poissons (Jagalchi) et son ambiance détendue entre mer et montagnes.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Gyeongju</title>
+      <link>//localhost:1313/sk25/gyeongju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sk25/gyeongju/</guid>
+        <media:content url="//localhost:1313/sk25/gyeongju/IMG_9591_hu_36206d1a76c1cf44.JPEG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/sk25/gyeongju/IMG_9591_hu_36206d1a76c1cf44.JPEG&quot; /&gt;
+          &lt;p&gt;Ancienne capitale du royaume de Silla, connue pour ses temples, tombeaux royaux et vestiges historiques, souvent surnommée &#34;le musée à ciel ouvert&#34; de la Corée.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -2,11 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/sk25/seoul/</loc>
+  </url><url>
+    <loc>//localhost:1313/sk25/</loc>
+  </url><url>
+    <loc>//localhost:1313/sk25/pusan/</loc>
+  </url><url>
+    <loc>//localhost:1313/sk25/gyeongju/</loc>
+  </url><url>
     <loc>//localhost:1313/test/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/beach/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/cat1/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/nature/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/palace/</loc>
   </url><url>
     <loc>//localhost:1313/categories/street/</loc>
   </url><url>
